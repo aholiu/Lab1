@@ -1,0 +1,49 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    height: 60px;
+    line-height: 60px;
+    padding: 20px;
+    background-color: #000;
+}
+
+h1 {
+    float: left;
+    margin:0px;
+    color: #fff;
+}
+
+ul {
+    float: right;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+ul a {
+    float: left;
+    margin-left: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.content {
+    width: 70%;
+    float: left;
+    background-color: #ddd;
+    min-height: 500px;
+}
+
+.sidebar {
+    width: 30%;
+    float: left;
+    background-color: #333;
+    color: #fff;
+}
+
+p {
+    margin: 20px;
+}
